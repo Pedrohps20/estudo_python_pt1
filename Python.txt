@@ -1,0 +1,15 @@
+No terminal para executar o arquivo
+python + nome do script
+
+print(type(variável)) - vai mostrar o tipo de dano da variável 
+
+comentário de múltiplas linhas - 3 aspas simples ou duplas
+
+
+***todo o retorno do input é string, para converter eu coloco : int(input(".....")) - a informação que será inserida será considerada como int (está sendo convertido para inteiro)
+
+
+PRINT(F"...") - vai funcionar como o Console.Write($"...") do C#.
+
+
+*********************Shift tab arreda a seleção para a esquerda, enquanto tab sozinha joga para a direita

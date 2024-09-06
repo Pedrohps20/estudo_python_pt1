@@ -1,0 +1,1 @@
+# Crie uma lista com 5 elementos e aceda ao terceiro elemento.
